@@ -14,6 +14,12 @@ namespace CursoCSharp {
                 {" Interpolação - Fundamentos", Interpolacao.Executar },
                 {" Notação ponto - Fundamentos", NotacaoPonto.Executar },
                 {" Lendo Dados - Fundamentos", LendoDados.Executar },
+                {"Formatando números - Fundamentos ", FormatandoNumero.Executar },
+                {"Conversões - Fundamentos ", Conversoes.Executar },
+                {"Operadores aritimeticos - Fundamentos ", OperadoresAritimeticos.Executar },
+                {"Operadores Relacionais - Fundamentos ", OperadoresRelacionais.Executar },
+                {"Operadores Lógicos - Fundamentos ", OperadoresLogicos.Executar },
+                {"Operadores Atribuicao - Fundamentos ", OperadoresAtribuicao.Executar }
 
 
             });
